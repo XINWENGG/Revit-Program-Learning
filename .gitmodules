@@ -1,0 +1,6 @@
+[submodule "HelloWorld"]
+	path = HelloWorld
+	url = https://github.com/XINWENGG/Hello-World.git
+[submodule "IPD"]
+	path = IPD
+	url = https://github.com/XINWENGG/Hello-World.git
